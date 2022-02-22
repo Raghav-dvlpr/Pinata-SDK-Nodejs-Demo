@@ -1,0 +1,10 @@
+
+
+refer this docs
+
+
+https://docs.pinata.cloud/pinata-node-sdk
+
+
+To Run 
+node Pinata Functions/
