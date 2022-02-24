@@ -11,7 +11,7 @@
 - Example: You will this line in your every `js` file in Pinata Functions Folder..
 ```
 const pinataSDK = require('@pinata/sdk');
-const pinata = pinataSDK('yourPinataApiKey', 'yourPinataApiKey');
+const pinata = pinataSDK('yourPinataApiKey', 'yourPinataSecretApiKey');
 ```
 
 ## Getting started 📖
